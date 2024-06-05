@@ -1,7 +1,7 @@
   <h3 align="center">A full stack Threads Clone</h3>
 
    <div align="center">
-     Built this project by following tutorial available on YouTube: <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"></a>
+     Built this project by following tutorial available on YouTube <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b></b></a>
     </div>
 </div>
 
